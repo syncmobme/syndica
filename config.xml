@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" android-versionCode="100" ios-CFBundleVersion="1.0.0" version="1.0.0" id="com.syndica.android">
 
-<name>Alberceli Administradora</name>
+<name>Syndica Gestão de Condomínios</name>
 <description>Moradores e condomínios conectados</description>
 <author>Agência Bynnes</author>
 <content src="index.html"/>
