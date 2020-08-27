@@ -1,7 +1,7 @@
 // Initialize your app
 var myApp = new Framework7({
     // Default title for modals
-    modalTitle: 'Alberceli',
+    modalTitle: 'Syndica',
     tapHold: true,
     tapHoldPreventClicks: true,
      // Enable Material theme
