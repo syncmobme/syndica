@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264342738556",
+    "firebase_url": "https://syndica-9ceb9.firebaseio.com",
+    "project_id": "syndica-9ceb9",
+    "storage_bucket": "syndica-9ceb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264342738556:android:4ba7e67e94168c975a9bf9",
+        "android_client_info": {
+          "package_name": "com.syndica.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264342738556-ksk0v6o7clhiiul9bi4eaek2tkav02oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RPzeCmt9PN1-w6FnEj2bMjfCYoo5sfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264342738556-ksk0v6o7clhiiul9bi4eaek2tkav02oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264342738556-r6ijhskccl2g0el31g353hvtdd0ub4b7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.syndica.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
